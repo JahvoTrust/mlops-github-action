@@ -26,7 +26,7 @@ If you don’t have an Azure subscription, create a free account before you begi
 To get started with ML Ops, simply create a new repo based off this template, by clicking on the green "Use this template" button:
 
 <p align="center">
-  <img src="https://help.github.com/assets/images/help/repository/use-this-template-button.png" alt="GitHub Template repository" width="700"/>
+  Git Clone this Repository.
 </p>
 
 ### 3. Setting up the required secrets
