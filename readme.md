@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="docs/images/aml.png" height="80"/>
-  <img src="https://i.ya-webdesign.com/images/a-plus-png-2.png" alt="plus" height="40"/>
   <img src="docs/images/actions.png" alt="Azure Machine Learning + Actions" height="80"/>
 </p>
 
