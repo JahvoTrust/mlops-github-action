@@ -6,7 +6,7 @@ on:
       - '.github/workflows/setup.yml'
  
  
-# CONFIGURATION 
+# CONFIGURATION v1
 #
 # 1. Set up the following secrets in your repository: 
 #   AZURE_RESOURCE_GROUP 
