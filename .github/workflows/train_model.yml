@@ -1,4 +1,4 @@
-name: Infra Deployment and Training
+name: Train_model
 
 on:
   push:
